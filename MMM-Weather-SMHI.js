@@ -291,7 +291,7 @@ Module.register("MMM-Weather-SMHI", {
 				"dimmed light small";
 			return wrapper;
 		}
-
+/*
 		// CURRENT
 		var small = document.createElement(
 			"span"
@@ -440,7 +440,7 @@ Module.register("MMM-Weather-SMHI", {
 		wrapper.appendChild(
 			large
 		);
-
+*/
 		// FORECAST
 		var table = document.createElement(
 			"table"
